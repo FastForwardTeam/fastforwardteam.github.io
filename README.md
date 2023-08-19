@@ -1,2 +1,2 @@
 # fastforwardteam.github.io
-random in-house stuff 
+moved to the [server wiki](https://github.com/FastForwardTeam/Server/wiki)
